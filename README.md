@@ -7,7 +7,7 @@ Backend Developer
 *   🌍  I'm based in Istanbul
 *   🖥️  See my portfolio at [https://sezenyildirim.com.tr](http://sezenyildirim.com.tr)
 *   ✉️  You can contact me at [bestesyildirim@gmail.com](mailto:bestesyildirim@gmail.com)
-*   🚀  I'm currently open to work.
+*   🚀  I'm currently open to work
 
 Skills 
 <p align="left">
