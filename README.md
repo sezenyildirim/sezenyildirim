@@ -1,7 +1,7 @@
 Hi 👋 My name is Beste Sezen YILDIRIM
 =====================================
 
-Backend Developer
+Fullstack .NET Developer
 -----------------
 
 *   🌍  I'm based in Istanbul
